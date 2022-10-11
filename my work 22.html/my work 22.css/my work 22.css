@@ -149,7 +149,7 @@ body{
 
 
 
- @media(max-width: 1096px){
+ @media(max-width: 999px){
     .middle-cta{
         background-color:rgb(229, 226, 226) ;
         padding-top: 20px;
@@ -243,7 +243,7 @@ body{
 }
 
 .below-cta .first{
-   margin-left: 500px;
+   margin-left: 400px;
    list-style-type: disc;
 }
 
@@ -254,7 +254,7 @@ body{
 
 
 
-@media(max-width: 1096px){
+@media(max-width: 999px){
     .below-cta{
     
         font-size: 25px;
@@ -351,7 +351,7 @@ div.container{
 
 
 
-@media(max-width: 1096px){
+@media(max-width: 999px){
 
     
 div.container{
@@ -464,7 +464,7 @@ textarea{
 
 
 
-@media(max-width: 1096px){
+@media(max-width: 999px){
     .contact{
         margin: 5px;
     }
